@@ -29,5 +29,9 @@
 
 #### Условия выполнения
 Задание необходимо выполнить в течение 2 суток после выдачи и выслать на почту a.aleskin@mindandmachine.ru или в telegram t.me/alexvasnetsov
-
-
+#### Примеры запроса
+shop.com:8000/sum/?ids=3,1
+shop.com:8000/filter/?sex=M&price_low=1000&price_high=4000
+в случае лок сервера
+127.0.0.1:8000/filter/?sex=M&price_low=1000&price_high=4000
+127.0.0.1:8000/sum/?ids=3,1
